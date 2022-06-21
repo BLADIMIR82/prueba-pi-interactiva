@@ -1,0 +1,105 @@
+[
+    {
+      "id": 1,
+      "image":"toronto.jpg",
+      "name": "Toronto",
+      "info": "Toronto, the capital of the province of Ontario, is a major Canadian city located along the northwestern shore of Lake Ontario. It is a dynamic metropolis with a center of tall skyscrapers, all towered over by the iconic CN Tower."
+      
+    },
+    {
+      "id": 2,
+      "image":"paris.jpg",
+      "name": "Paris",
+      "info": "Paris, the capital of France, is a major European city and a world center for art, fashion, food and culture. Its 19th-century urban landscape is crisscrossed by wide boulevards and the Seine River. Aside from such landmarks as the Eiffel Tower and the 12th-century Gothic Notre Dame Cathedral, the city is famous for its café culture and the designer fashion shops along Rue du Faubourg Saint-Honoré."
+      
+    },
+    {
+      "id": 3,
+      "image":"dubai.jpg",
+      "name": "Dubai",
+      "info": "Dubai is an emirate city of the United Arab Emirates known for its luxurious shopping, ultra-modern architecture and lively nightlife. Burj Khalifa, an 830m-high tower, dominates the skyscraper-filled landscape. At its feet is the Dubai Fountain, with choreography of jets and lights to the rhythm of music. On artificial islands just off the coast are Atlantis,"
+    },
+    {
+      "id": 4,
+      "image":"chicago.jpg",
+      "name": "Chicago",
+      "info": "Chicago, on Lake Michigan in Illinois, is among the largest cities in the US. It is famous for its bold architecture and has a skyline that includes skyscrapers such as the iconic John Hancock Center, the 1,451-foot Willis Tower (former Sears Tower) and Tribune Tower in the neo-Gothic style. The city is also famous for its museums,"
+      
+    },
+    {
+      "id": 5,
+      "image":"sanandres.jpg",
+      "name": "San Andres",
+      "info": "San Andrés is a Colombian island in the Caribbean Sea, off the coast of Nicaragua. It is known for coral reefs and reggae music. The fiery Spratt Bight beach has a palm-lined promenade. On the coast is the Johnny Cay Park, a small island with coconut mangroves and white sand beaches. Mangrove Old Point Regional Park is a wildlife sanctuary with crabs, iguanas, and birds."
+      
+    },
+    {
+      "id": 6,
+      "image":"macchupichu.jpg",
+      "name": "Machu picchu",
+      "info": "This ancient Inca city is one of Peru's most precious treasures. It was built in the mid-15th century and it is believed that it was one of the residences of the ninth Inca of Tahuantinsuyo, Pachacútec, although there are also the remains of a sanctuary. Its name means old mountain, and refers to the place where it is located, at about 2,453 meters above sea level, on a rocky premonitory between Machu Picchu and Huayna Picchu. It is common for travelers to feel altitude sickness during the ascent."
+      
+    },
+    {
+      "id": 7,
+      "image":"bogota.jpg",
+      "name": "Bogota",
+      "info": ""
+     
+    },
+    {
+      "id": 8,
+      "image":"London.jpg",
+      "name": "London",
+      "info": "Bogotá is the extensive high altitude capital of Colombia. La Candelaria, its cobblestoned center, boasts colonial sites like the neoclassical Teatro Colón and the 17th-century Iglesia de San Francisco. It is also home to popular museums, including the Museo Botero, which exhibits art by Fernando Botero, and the Museo del Oro, with pre-Columbian gold pieces."
+     
+    },
+    {
+      "id": 9,
+      "image":"buenosaires.jpg",
+      "name": "Buenos Aires",
+      "info": "Buenos Aires is the great cosmopolitan capital of Argentina. Its center is the Plaza de Mayo, surrounded by imposing 19th-century buildings, including the Casa Rosada, the iconic presidential palace that has several balconies. Other major attractions include the Teatro Colón, a lavish 1908 opera house with nearly 2,500 seats, and the modern MALBA museum, which exhibits Latin American art."
+     
+    },
+    {
+      "id": 10,
+      "image":"moscu.jpg",
+      "name": "Moscu",
+      "info": "Moscow is located on the Moskva River in western Russia and is the nation's cosmopolitan capital. In its historic center, there is the Kremlin, a complex that houses the president and treasures of the tsars in the Armory. Outside its walls is Red Square, the symbolic center of Russia. Here is the Lenin Mausoleum, the comprehensive collection of the State Historical Museum and St. Basil's Cathedral, known for its colorful onion domes."
+     
+    },
+    {
+      "id": 11,
+      "image":"berlin.jpg",
+      "name": "Berlin",
+      "info": "Berlin, the German capital, dates back to the 13th century. Items reminiscent of the city's turbulent 20th-century history include the Holocaust Memorial and the graffitied remnants of the Berlin Wall. After being divided during the Cold War, the 18th century Brandenburg Gate became a symbol of reunification. The city is known for its artsy scene and trendy landmarks, such as the gold-colored Berlin Philharmonic, built in 1963, with a panel design that pops off its roof."
+     
+    },
+    {
+      "id": 12,
+      "image":"oslo.jpg",
+      "name": "Oslo",
+      "info": "Oslo, the capital of Norway, is located on the southern coast of the country at the head of the Oslo Fjord. It is famous for its green areas and museums. Many of these are on the Bygdøy Peninsula, including the Norwegian Maritime Museum by the sea and Oslo's Viking Ship Museum, featuring 9th-century Viking vessels. Holmenkollbakken is a ski jumping hill with a panoramic view of the fjord. It also has a ski museum"
+    },
+    {
+        "id": 13,
+        "image":"oslo.jpg",
+        "name": "Tokio",
+        "info": "Tokio, la ajetreada capital de Japón, mezcla lo ultramoderno y lo tradicional, desde los rascacielos iluminados con neones hasta los templos históricos. El opulento santuario Shinto Meiji es conocido por su puerta altísima y los bosques circundantes. El Palacio Imperial se ubica en medio de grandes jardines públicos. Los distintos museos de la ciudad ofrecen exhibiciones que van desde el arte clásico (en el Museo Nacional de Tokio) hasta un teatro kabuki reconstruido (en el Museo Edo-Tokyo)."
+      },
+      {
+        "id": 14,
+        "image":"",
+        "name": "Madrid",
+        "info": "Madrid is the central capital of Spain with elegant boulevards and large well-kept parks, such as the Buen Retiro. It is famous for its rich collections of European art, with works by Goya, Velázquez and other Spanish masters in the Prado Museum. The heart of old Habsburg Madrid is the portico-lined Plaza Mayor and nearby is the Royal Palace and the Armory, displaying historic arsenals"
+      },
+      {
+        "id": 15,
+        "image":"oslo.jpg",
+        "name": "Helsinki",
+        "info": "Helsinki, la capital de Finlandia en el sur del país, se ubica en una península del golfo de Finlandia. Su avenida central, Mannerheimintie, está bordeada de instituciones como el Museo Nacional, que recorre la historia de Finlandia desde la Edad de Piedra hasta la actualidad. También en Mannerheimintie se encuentra la imponente Casa del Parlamento y el museo de arte contemporáneo Kiasma. La adornada catedral de ladrillos rojos de Uspenski tiene vista al puerto."
+      }
+  
+  ]
+
+ 
